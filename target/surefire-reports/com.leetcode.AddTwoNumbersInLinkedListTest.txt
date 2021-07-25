@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.leetcode.AddTwoNumbersInLinkedListTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.029 s <<< FAILURE! - in com.leetcode.AddTwoNumbersInLinkedListTest
+addTwoNumbers  Time elapsed: 0.023 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: sum is incorrect ==> expected: <com.leetcode.ListNode@473b46c3> but was: <null>
+	at com.leetcode.AddTwoNumbersInLinkedListTest.addTwoNumbers(AddTwoNumbersInLinkedListTest.java:25)
+
